@@ -1,0 +1,44 @@
+{
+    "personagens": {
+        "viajante": {
+            "poder": 3,
+            "sabedoria": 4,
+            "carisma": 5
+        },
+        "mago": {
+            "poder": 7,
+            "sabedoria": 8,
+            "carisma": 3
+        },
+        "guerreira": {
+            "poder": 8,
+            "sabedoria": 4,
+            "carisma": 5
+        },
+        "cientista": {
+            "poder": 4,
+            "sabedoria": 8,
+            "carisma": 3
+        },
+        "artista": {
+            "poder": 2,
+            "sabedoria": 5,
+            "carisma": 8
+        }
+    },
+    "estados_emocionais": {
+        "determinado": "aumentando sua força interior",
+        "receoso": "com as mãos tremendo levemente",
+        "curioso": "com os olhos brilhando de interesse"
+    },
+    "objetos_magicos": {
+        "Cristal do Tempo": "permite ver fragmentos do futuro",
+        "Anel da Verdade": "revela mentiras e ilusões",
+        "Pergaminho Ancestral": "contém segredos esquecidos"
+    },
+    "clima": {
+        "tempestuoso": "raios cortavam o céu",
+        "nebuloso": "a névoa densa ocultava os caminhos",
+        "estrelado": "as constelações brilhavam intensamente"
+    }
+}

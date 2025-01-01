@@ -1,0 +1,28 @@
+{
+    "pt": {
+        "mensagens": {
+            "bem_vindo": "🌟 Bem-vindo ao Gerador de Histórias Mágicas! 🌟",
+            "tutorial": "\n                    📖 COMO JOGAR:\n                    1. Uma história inicial será gerada automaticamente\n                    2. Você pode continuar a história escrevendo o que acontece depois\n                    3. Suas escolhas afetam o poder e a sabedoria do personagem\n                    4. Textos positivos aumentam o poder\n                    5. Textos longos aumentam a sabedoria\n                    6. Digite 'sair' para terminar e salvar sua história\n                    7. Digite 'idioma' para trocar entre português e inglês\n                    8. Digite 'ajuda' para ver os comandos disponíveis\n                    \n                    Está pronto para começar sua aventura? (sim/não): ",
+            "comandos": {
+                "sair": "Sair do jogo",
+                "idioma": "Mudar idioma",
+                "ajuda": "Ver comandos",
+                "status": "Ver status do personagem",
+                "salvar": "Salvar história atual"
+            }
+        }
+    },
+    "en": {
+        "mensagens": {
+            "bem_vindo": "🌟 Welcome to the Magical Story Generator! 🌟",
+            "tutorial": "\n                    📖 HOW TO PLAY:\n                    1. An initial story will be automatically generated\n                    2. You can continue the story by writing what happens next\n                    3. Your choices affect the character's power and wisdom\n                    4. Positive texts increase power\n                    5. Longer texts increase wisdom\n                    6. Type 'exit' to end and save your story\n                    7. Type 'language' to switch between Portuguese and English\n                    8. Type 'help' to see available commands\n                    \n                    Are you ready to start your adventure? (yes/no): ",
+            "comandos": {
+                "exit": "Exit game",
+                "language": "Change language",
+                "help": "See commands",
+                "status": "See character status",
+                "save": "Save current story"
+            }
+        }
+    }
+}
